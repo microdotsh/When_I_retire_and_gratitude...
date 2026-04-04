@@ -18,6 +18,8 @@ Home to retire.
 
 Going to do online course work until joining Sober AF.
 
+Feeling pretty salty and lit despite things not going "my wa"!  <3
+
 I am grateful for getting to fail gracefully and learning from it.
 
 I am grateful for github and gitlab hosting data and allowing communities to share.
