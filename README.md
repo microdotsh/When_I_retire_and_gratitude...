@@ -1,31 +1,33 @@
-Thursday when I retire...
+Friday when I retire...
 
 Did my usual morning routine. (step 11)
 
-Zoom Men's 11th step meeting.
+Went to the gym before work.
 
-Brief call with Google recruiter.
+Work.  Hit the ground running.
+(Had some issues that baffled me at first but managed to get them sorted.)
 
-Work.
+While walking to my truck I was hit with a sense of gratitude that I don't feel like I have to drink after having "a day".
+"And we have ceased fighting anything or anyone—
+even alcohol. For by this time sanity will have re-
+turned." (p.84)
 
-Home.  Ate and constructively reviewed my day before sending out lists.
+Top of Texas for chip night.
+
+Home to retire.
 
 Going to do online course work until joining Sober AF.
 
-It was good day where I didn't need to make any apologies but gave thanks.  Feeling a little saty and lit!  (I can always do better but it's nice not to utterly fail!)
+I am grateful for getting to fail gracefully and learning from it.
 
-I am grateful for Kyle's help to show me how to incorporate a method (call a binary) to query a database for credentials instead of hard coding them in plain text. (means script never has to be updated and is more secure)
+I am grateful for github and gitlab hosting data and allowing communities to share.
 
-I am grateful for my boss going over common problems and their resolution with me.
+I am greatful for my body getting stronger.
 
-I am greatful for the pleasant temperature today.
+I am grateful for the people in my life today.
 
-I am grateful for other nerds who tolerate my excitement about nerdy stuff.
-
-I am grateful that my truck is still running well.  It's pushing 220,000 miles!
+I am grateful to be able to be helpful in and out of the rooms.
 
 Riddle of the day:
-
-Yesterday's answer:  Your fingers! (or toes)
-
-Today's Riddle:  Oliver was 10 the day before yesterday.  Next year he'll be 13.  How is this possible?
+Yesterday's answer:  His birthday is December 31. On December 30 he was 10. On December 31 he turned 11. On January 1 ("today"), he's still 11. This year, on December 31, he'll turn 12. So next year, he'll turn 13. 
+Today's Riddle:  What did the triangle say to the circle?
