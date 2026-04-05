@@ -6,4 +6,12 @@ Even with delays between each message, my carrier was filtering messages. They w
 
 Ultimately, because the content was so much, I decided to use the index.html here for the content, add pages and distribute the link instead.
 
+REQUSITES:
+  Android (Tested on 12)
+  Termux
+  Termux-API
+
+OPTIONAL:
+Tewrmux-widget
+
 Daily content can be found at https://microdotsh.github.io/When_I_retire-gratitude/
